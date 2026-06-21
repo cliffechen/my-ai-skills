@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "2fe0c8ea-1dbb-4403-a102-7341cb95c155",
+  "path": "ingredients-breakdown-compliance-check",
+  "path_key": "ingredients-breakdown-compliance-check",
+  "enabled": true,
+  "tags": [
+    "亚马逊",
+    "合规",
+    "成分分析"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
