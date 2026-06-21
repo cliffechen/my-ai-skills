@@ -2,3 +2,6 @@
 Thumbs.db
 *.tmp
 .skills-manager.lock
+.secret.key
+skills-manager.db*
+cache/
