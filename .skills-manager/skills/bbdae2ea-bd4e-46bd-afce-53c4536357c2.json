@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "bbdae2ea-bd4e-46bd-afce-53c4536357c2",
+  "path": "amazon-new-listing-keyword-library",
+  "path_key": "amazon-new-listing-keyword-library",
+  "enabled": true,
+  "tags": [
+    "亚马逊",
+    "关键词库"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
