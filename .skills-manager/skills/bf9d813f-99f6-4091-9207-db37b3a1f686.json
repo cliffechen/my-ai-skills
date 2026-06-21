@@ -4,7 +4,10 @@
   "path": "spf-products-advances-to-image-copy",
   "path_key": "spf-products-advances-to-image-copy",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "亚马逊",
+    "作图"
+  ],
   "source": {
     "type": "git",
     "ref": "https://github.com/cliffechen/my-ai-skills.git",

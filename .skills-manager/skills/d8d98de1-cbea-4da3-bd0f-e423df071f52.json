@@ -9,9 +9,9 @@
     "市场调研"
   ],
   "source": {
-    "type": "git",
-    "ref": "https://github.com/cliffechen/my-ai-skills.git",
-    "subpath": "US_Sup_Product_Research_for_Qoderwork",
+    "type": "local",
+    "ref": null,
+    "subpath": null,
     "branch": null
   }
 }

@@ -10,9 +10,9 @@
     "成分分析"
   ],
   "source": {
-    "type": "git",
-    "ref": "https://github.com/cliffechen/my-ai-skills.git",
-    "subpath": "ingredients-breakdown-compliance-check",
+    "type": "local",
+    "ref": null,
+    "subpath": null,
     "branch": null
   }
 }
