@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf9d813f-99f6-4091-9207-db37b3a1f686",
+  "path": "spf-products-advances-to-image-copy",
+  "path_key": "spf-products-advances-to-image-copy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/cliffechen/my-ai-skills.git",
+    "subpath": "spf-products-advances-to-image-copy",
+    "branch": null
+  }
+}

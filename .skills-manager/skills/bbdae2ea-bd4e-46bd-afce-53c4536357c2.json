@@ -9,9 +9,9 @@
     "关键词库"
   ],
   "source": {
-    "type": "local",
-    "ref": null,
-    "subpath": null,
+    "type": "git",
+    "ref": "https://github.com/cliffechen/my-ai-skills.git",
+    "subpath": "amazon-new-listing-keyword-library",
     "branch": null
   }
 }

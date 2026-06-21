@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d90d5c9b-1f57-4b77-8588-99ebd98b2e3e",
+  "path": "amazon-dropdown-expander",
+  "path_key": "amazon-dropdown-expander",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/cliffechen/my-ai-skills.git",
+    "subpath": "amazon-dropdown-expander",
+    "branch": null
+  }
+}
