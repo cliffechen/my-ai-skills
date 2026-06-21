@@ -4,7 +4,10 @@
   "path": "US_Sup_Product_Research_for_Qoderwork",
   "path_key": "us_sup_product_research_for_qoderwork",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "亚马逊",
+    "市场调研"
+  ],
   "source": {
     "type": "local",
     "ref": null,
