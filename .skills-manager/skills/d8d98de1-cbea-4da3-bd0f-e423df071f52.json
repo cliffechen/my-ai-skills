@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8d98de1-cbea-4da3-bd0f-e423df071f52",
+  "path": "US_Sup_Product_Research_for_Qoderwork",
+  "path_key": "us_sup_product_research_for_qoderwork",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
